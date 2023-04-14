@@ -13,7 +13,8 @@ y2 = float(input('Y: '))
 
 
 
-x_diff = x2 - x1
+x_diff = x1 - x2
+
 y_diff = y1 - y2
 
 k = y_diff / x_diff
