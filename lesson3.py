@@ -1,6 +1,7 @@
 print("Привет Мир!")
 print("Введите первую точку")
 
+z1 = int(input("Введите любое число: "))
 x1 = float(input('X: '))
 
 y1 = float(input('Y: '))
