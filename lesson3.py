@@ -12,7 +12,7 @@ x2 = float(input('X: '))
 y2 = float(input('Y: '))
 
 print('Я люблю Настёну!')
-print('Я люблю маму!')
+print('Я люблю Маму!')
 print('Я люблю Хлою!')
 
 delivery = input('Выберите способ доставки: ')
