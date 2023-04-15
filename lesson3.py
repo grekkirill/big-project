@@ -13,8 +13,11 @@ y2 = float(input('Y: '))
 
 print('Я люблю Настёну!')
 
+<<<<<<< Updated upstream
 print('Свободу Анджеле Джоли!')
 
+=======
+>>>>>>> Stashed changes
 
 x_diff = x1 - x2
 
