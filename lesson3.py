@@ -11,7 +11,7 @@ x2 = float(input('X: '))
 
 y2 = float(input('Y: '))
 
-print('Свободу Анджеле Дэвис!')
+print('Я люблю Настёну!')
 
 x_diff = x1 - x2
 
