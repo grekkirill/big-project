@@ -1,6 +1,5 @@
 print("Привет Мир!")
 print("Введите первую точку")
-print()
 
 x1 = float(input('X: '))
 
