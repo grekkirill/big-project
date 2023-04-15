@@ -13,6 +13,9 @@ y2 = float(input('Y: '))
 
 print('Я люблю Настёну!')
 
+print('Свободу Анджеле Джоли!')
+
+
 x_diff = x1 - x2
 
 y_diff = y1 - y2
